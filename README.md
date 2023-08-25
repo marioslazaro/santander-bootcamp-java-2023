@@ -1,6 +1,7 @@
-# santander-bootcamp-java-2023
-Java RESTful API criado para o BootCamp Santander 2023
+<h1 align="center"> 👨🏻‍💻 Java RESTful API 👨🏻‍💻 </h1>
 
+📝 Descrição
+Java RESTful API criado para o BootCamp Santander 2023
 ## Diagrama de Classes
 
 ```mermaid
@@ -40,6 +41,38 @@ classDiagram
     User "1" *-- "1" Card
     User "1" *-- "N" News
 ```
+
+## 🔧 Tecnologias utilizadas
+* Java;
+* API REST;
+* Spring;
+* Git & GitHub;
+* Railway
+
+## :soon: Implementação futura
+* Null
+
+## :handshake: Colaboradores
+<table>
+  <tr>
+    <td align="center">
+      <a href="http://github.com/marioslazaro">
+        <img src="https://avatars.githubusercontent.com/u/111144236?v=4" width="100px;" alt="Foto de Mario Lazaro no GitHub"/><br>
+        <sub>
+          <b>marioslazaro</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+marioslazaro
+
+## :dart: Status do projeto
+Null
+
+
+
 
 
 
