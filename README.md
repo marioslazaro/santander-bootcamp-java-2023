@@ -66,7 +66,7 @@ classDiagram
   </tr>
 </table>
 
-marioslazaro
+
 
 ## :dart: Status do projeto
 Null
